@@ -46,6 +46,5 @@ Air Writing is a touchless writing system that allows users to write on the scre
 ---
 ## 🎥 Demo Video
 
-▶️ **Watch the Demo Video**
-
-[Click here to watch the demo video](assets/demo/air-writing-demo.mp4)
+▶️ **Watch the Demo on YouTube**  
+https://youtu.be/fStXm1T_ARM
