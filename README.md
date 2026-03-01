@@ -32,3 +32,20 @@ Air Writing is a touchless writing system that allows users to write on the scre
 - No mouse or keyboard is required for writing.
 
 ---
+## 📸 Screenshots
+
+### Air Writing – Main View
+![Air Writing Main](assets/screenshots/air-writing.png)
+
+### Air Writing – Toolbar & Colors
+![Air Writing Toolbar](assets/screenshots/air-writing1.png)
+
+### Air Writing – Drawing & Erasing
+![Air Writing Drawing](assets/screenshots/air-writing2.png)
+
+---
+## 🎥 Demo Video
+
+▶️ **Watch the Demo Video**
+
+[Click here to watch the demo video](assets/demo/air-writing-demo.mp4)
